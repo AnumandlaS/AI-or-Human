@@ -1,4 +1,6 @@
 import pandas as pd
+#pandas library used to read file
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 # TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer converts raw text into numerical values based on how important a word is in a document relative to its frequency in the corpus.
 
